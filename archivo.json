@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "nombre": "Aloe Vera",
+      "precio": 1500,
+      "descripcion": "Planta suculenta conocida por sus propiedades medicinales y facilidad de cuidado."
+    },
+    {
+      "id": 2,
+      "nombre": "Helecho",
+      "precio": 1200,
+      "descripcion": "Planta ornamental de interior que necesita humedad y luz indirecta."
+    },
+    {
+      "id": 3,
+      "nombre": "Cactus",
+      "precio": 800,
+      "descripcion": "Planta desértica muy resistente, ideal para lugares secos y soleados."
+    },
+    {
+      "id": 4,
+      "nombre": "Poto",
+      "precio": 1700,
+      "descripcion": "Planta trepadora de interior, fácil de cuidar y muy decorativa."
+    },
+    {
+      "id": 5,
+      "nombre": "Lavanda",
+      "precio": 2000,
+      "descripcion": "Planta aromática que produce flores con un aroma relajante y atractivo."
+    }
+  ]
+  

@@ -1,0 +1,23 @@
+[
+    {
+      "id": 6,
+      "img": "invierno_helecho.jpg",
+      "nombre": "Helecho de interior",
+      "precio": 1800,
+      "descripcion": "Ideal para ambientes cerrados durante el invierno, requiere poca luz."
+    },
+    {
+      "id": 7,
+      "img": "invierno_cactus.jpg",
+      "nombre": "Cactus bola",
+      "precio": 1500,
+      "descripcion": "Planta resistente al frío, necesita riego muy escaso."
+    },
+    {
+      "id": 8,
+      "img": "invierno_sansevieria.jpg",
+      "nombre": "Sansevieria",
+      "precio": 2200,
+      "descripcion": "Purifica el aire en interiores y resiste temperaturas bajas."
+    }
+  ]

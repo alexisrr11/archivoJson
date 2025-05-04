@@ -1,0 +1,24 @@
+[
+    {
+      "id": 9,
+      "img": "verano_geranio.jpg",
+      "nombre": "Geranio",
+      "precio": 1300,
+      "descripcion": "Flor vibrante que florece mejor a pleno sol."
+    },
+    {
+      "id": 10,
+      "img": "verano_lavanda.jpg",
+      "nombre": "Lavanda",
+      "precio": 1700,
+      "descripcion": "Aroma fresco, ideal para jardines soleados en verano."
+    },
+    {
+      "id": 11,
+      "img": "verano_petunia.jpg",
+      "nombre": "Petunia",
+      "precio": 1400,
+      "descripcion": "Florece en abundancia durante el verano, necesita luz directa."
+    }
+  ]
+  

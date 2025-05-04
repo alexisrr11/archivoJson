@@ -1,21 +1,21 @@
 [
     {
       "id": 9,
-      "img": "verano_geranio.jpg",
+      "img": "https://www.mvgarden.com/garden-center/wp-content/uploads/2023/04/geranio-02.jpg",
       "nombre": "Geranio",
       "precio": 1300,
       "descripcion": "Flor vibrante que florece mejor a pleno sol."
     },
     {
       "id": 10,
-      "img": "verano_lavanda.jpg",
+      "img": "https://www.koldourizarbarrena.com/wp-content/uploads/2021/09/como-cuidar-la-lavanda.jpg",
       "nombre": "Lavanda",
       "precio": 1700,
       "descripcion": "Aroma fresco, ideal para jardines soleados en verano."
     },
     {
       "id": 11,
-      "img": "verano_petunia.jpg",
+      "img": "https://gardeningwithcharlie.com/wp-content/uploads/2014/01/petunia.jpg",
       "nombre": "Petunia",
       "precio": 1400,
       "descripcion": "Florece en abundancia durante el verano, necesita luz directa."

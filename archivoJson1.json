@@ -1,21 +1,21 @@
 [
     {
       "id": 6,
-      "img": "invierno_helecho.jpg",
+      "img": "https://i.pinimg.com/originals/19/14/34/1914348ef1d99821d390356f5d481f85.jpg",
       "nombre": "Helecho de interior",
       "precio": 1800,
       "descripcion": "Ideal para ambientes cerrados durante el invierno, requiere poca luz."
     },
     {
       "id": 7,
-      "img": "invierno_cactus.jpg",
+      "img": "https://static.vecteezy.com/system/resources/previews/009/984/712/non_2x/top-view-of-round-ball-shaped-cactuses-for-exotic-background-photo.jpg",
       "nombre": "Cactus bola",
       "precio": 1500,
       "descripcion": "Planta resistente al frío, necesita riego muy escaso."
     },
     {
       "id": 8,
-      "img": "invierno_sansevieria.jpg",
+      "img": "https://i.pinimg.com/originals/51/b8/71/51b871be7f3151e010622cbb1dea0eae.jpg",
       "nombre": "Sansevieria",
       "precio": 2200,
       "descripcion": "Purifica el aire en interiores y resiste temperaturas bajas."
